@@ -9,56 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+[Long CV Here]()
+
+Academic Positions
+======
+* June 2021 - Now: Assistant Professor
+  * Hong Kong Baptist University
+* July 2022 - Now: Fellow
+  * Centre for Sustainable Development Studies, Hong Kong Baptist University
+* Sept 2018 - May 2021: Postdoctoral Research Associate
+  * University of Cambridge-INET Institute
+* Sept 2018 - Aug 2019: Fellow
+  * Fitzwilliam College, University of Cambridge
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, Toulouse School of Economics, 2019
+* M.A. in Economics, Toulouse School of Economics, 2013
+* M.Sc. in Applied Economics, City University of Hong Kong, 2012
+* B.B.A. in Marketing (Minor in Mathematics), Hong Kong University of Science and Technology, 2011
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Questions: How people learn and make decisions, and the strategic and policy implications
+* Methodology: Theory, Behavioral Experiment
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
