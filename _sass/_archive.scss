@@ -90,14 +90,22 @@
    ========================================================================== */
 
 .research__item {
-  p {
+  margin-bottom: 0.5em;
+
+  > p, > span {
     display: inline;
     margin: 0;
+    padding: 0;
   }
+
   details {
     display: block;
-    margin-top: 0.3em;
-    margin-bottom: 0.2em;
+    margin: 0.15em 0;
+  }
+
+  details + p {
+    display: block;
+    margin: 0.1em 0 0 0;
   }
 }
 
@@ -107,15 +115,15 @@
 
 .list__item {
   @include breakpoint($medium) {
-    padding-right: $right-sidebar-width-narrow;
+    padding-right: 0;
   }
 
   @include breakpoint($large) {
-    padding-right: $right-sidebar-width;
+    padding-right: 0;
   }
 
   @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
+    padding-right: 0;
   }
 
   .page__meta {

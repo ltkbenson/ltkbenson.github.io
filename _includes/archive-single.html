@@ -27,10 +27,7 @@
     {% endif %}
 
     {% if post.collection == 'research' %}
-      <div class="research__item" style="margin-bottom: 0.8em;">
-        <span>{% if include.counter %}{{ include.counter }}. {% endif %}<strong>{{ title }}</strong>, </span>
-        {{ post.content }}
-      </div>
+      <div class="research__item">{% if include.counter %}{{ include.counter }}. {% endif %}<strong>{{- title | strip -}}</strong>,&nbsp;{{ post.content }}</div>
 
     {% else %}
       <h3 class="archive__item-title" itemprop="headline">
