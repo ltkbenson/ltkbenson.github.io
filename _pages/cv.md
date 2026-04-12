@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Long CV Here]()
+[Long CV Here](/files/cv.pdf)
 
 Academic Positions
 ======

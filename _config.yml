@@ -78,12 +78,12 @@ author:
 publication_category:
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers' 
   workingpaper:
     title: 'Working Paper'    
   workinprogress:
     title: 'Work in Progress'
+  dormant:
+    title: 'Dormant Projects'
 
 
 # Site Settings
