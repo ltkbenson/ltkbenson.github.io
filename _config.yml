@@ -21,7 +21,7 @@ repository               : "ltkbenson/ltkbenson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Benson Tsz Kin LEUNG"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor in Economics"
@@ -77,7 +77,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Published Articles'    
   workingpaper:
     title: 'Working Paper'    
   workinprogress:
