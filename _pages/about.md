@@ -11,7 +11,7 @@ Welcome to my website! I work as an assistant professor at the Hong Kong Baptist
 
 My research mainly focuses on understanding how individuals make inferences and decisions with limited cognitive ability, and the mechanism behind different behavioral anomalies. I also build on my studies of individual decision making to draw implications on market and political competition, and welfare analysis of public policies.
 
-[Hong Kong Junior Micro Thoery Group](https://www.google.com/url?q=https%3A%2F%2Fweihe.weebly.com%2Fhong-kong-junior-micro-theory-group.html&sa=D)
+[Hong Kong Theory Group](https://sites.google.com/view/hkecontheory)
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
