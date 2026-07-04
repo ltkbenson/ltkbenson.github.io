@@ -6,7 +6,7 @@ permalink: /research/memory-overload
 date: 2026-07-01
 ---
 
-Previously circulated as "Information Overload and Confirmation Bias". With [Lorenz Götte](https://www.iame.uni-bonn.de/people/lorenz-goette) and [Hua-Jing Han](https://www.bgse.uni-bonn.de/en/community-1/student-directory/hua-jing-han). Accepted at **Games and Economic Behavior**, July 2026.
+Previously circulated as "Information Overload and Confirmation Bias". With [Lorenz Götte](https://fass.nus.edu.sg/ecs/people/lorenz-goette/) and [Hua-Jing Han](https://www.bgse.uni-bonn.de/en/community-1/student-directory/hua-jing-han). Accepted at **Games and Economic Behavior**, July 2026.
 
 <details>
 <summary>Abstract</summary>
