@@ -6,7 +6,7 @@ permalink: /research/innovation-diffusion
 date: 2025-08-01
 ---
 
-Accepted at **Journal of Economics and Management Strategy**, August 2025.
+**Journal of Economics & Management Strategy** 35, no. 2 (2026): 311-325.
 
 <details>
 <summary>Abstract</summary>
