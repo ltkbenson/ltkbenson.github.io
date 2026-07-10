@@ -3,10 +3,10 @@ title: "Learning in a Small/Big World"
 collection: research
 category: workingpaper
 permalink: /research/learning-small-big-world
-date: 2026-05-01
+date: 2026-07-01
 ---
 
-Revision Requested at **IER**, May 2026.
+Revised and Resubmitted at **IER**, July 2026.
 
 <details>
 <summary>Abstract</summary>
