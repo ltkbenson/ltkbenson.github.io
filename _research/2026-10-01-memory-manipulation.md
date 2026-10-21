@@ -6,7 +6,7 @@ permalink: /research/memory-manipulation
 date: 2026-10-01
 ---
 
-Previously circulated as "A Simple Model of Memory-Based Belief Formation". October 2026.
+October 2026.
 
 <details>
 <summary>Abstract</summary>
