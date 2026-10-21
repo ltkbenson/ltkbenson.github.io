@@ -3,10 +3,11 @@ title: "Distracted from Comparison: Product Design and Advertisement with Limite
 collection: research
 category: workingpaper
 permalink: /research/distracted-from-comparison
-date: 2026-06-01
+date: 2026-09-01
+rr: true
 ---
 
-With [Johannes Johnen](https://sites.google.com/site/johannesjohneneconomist/). Revised and Resubmitted (3rd Round) at **AEJ-Micro**, June 2026.
+With [Johannes Johnen](https://sites.google.com/site/johannesjohneneconomist/). Revised and Resubmitted (4th Round) at **AEJ-Micro**, September 2026.
 
 <details>
 <summary>Abstract</summary>
