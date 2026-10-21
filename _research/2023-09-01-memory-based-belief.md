@@ -6,7 +6,7 @@ permalink: /research/memory-based-belief
 date: 2023-09-01
 ---
 
-September 2023. [Working on major changes!]
+September 2023.
 
 <details>
 <summary>Abstract</summary>
