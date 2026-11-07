@@ -1,9 +1,10 @@
 ---
 title: "Learning in a Small/Big World"
 collection: research
-category: manuscripts
+category: workingpaper
 permalink: /research/learning-small-big-world
 date: 2026-11-01
+rr: true
 ---
 
 Conditionally Accepted at **International Economic Review**, November 2026.
